@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+httpx
+cryptography
+pydantic
+playwright
+playwright-stealth
